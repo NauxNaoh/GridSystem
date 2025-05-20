@@ -1,0 +1,11 @@
+{
+    "name": "com.naux.gridsystem",
+    "version": "1.0.0",
+    "displayName": "Grid System",
+    "description": "A flexible and optimized grid system for Unity.",
+    "unity": "2021.3",
+    "author": {
+        "name": "Naux",
+        "url": "https://github.com/NauxNaoh"
+    }
+}
