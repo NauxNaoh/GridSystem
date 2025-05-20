@@ -1,11 +1,21 @@
 {
     "name": "com.naux.gridsystem",
-    "version": "1.0.0",
     "displayName": "Grid System",
     "description": "A flexible and optimized grid system for Unity.",
-    "unity": "2021.3",
+    "version": "1.0.0",
+    "unity": "6000.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mob-sakai/ParticleEffectForUGUI.git"
+    },
     "author": {
         "name": "Naux",
+        "email": "naux.naoh@gmail.com",
         "url": "https://github.com/NauxNaoh"
-    }
+    },
+    "keywords": [
+        "grid",
+        "system",
+        "gridsystem"
+    ]
 }
